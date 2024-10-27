@@ -1,0 +1,83 @@
+.Navbar {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.Navbar-title {
+    margin: 0;
+    color: #333;
+}
+
+.icon-car {
+    font-size: 2em;
+    margin-right: 20px;
+}
+
+.icon-stop-icon-datatable-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70%;
+  }
+
+/* icon.css */
+.icon-stop-icon-datatable {
+    width: auto;  /* Maintain aspect ratio */
+    max-height: 30px; /* Set a max height if needed */
+}
+
+.form-demo .card {
+    width: 100%;
+}
+
+.form-demo .card .field {
+    margin-bottom: 1.5rem;
+}
+
+
+.card-background {
+    background-color: #f7f6f6;
+}
+
+.uniform-image {
+    height: 120px;
+    width: 120px;
+    object-fit: contain;
+}
+
+.fixed-card {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.createUpdateCard {
+    width: 80%;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.card-title {
+    font-size: 34px;
+}
+
+.content-wrapper {
+    padding-bottom: 6rem;
+}
+
+.p-tabview-nav{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+}
+
+/*.buttons {*/
+/*    flex*/
+/*}*/
